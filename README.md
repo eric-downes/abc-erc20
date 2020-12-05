@@ -1,5 +1,11 @@
 # ABC1 ERC20 Token
 
+## Context
+
+This ERC20 is part of a larger ABC token ecosystem.  For regulatory reasons we need to audit the ERC20 first and ASAP.  We are using openzeppelin's v2.3.0 release because that is what the specification we have received from the Thai SEC-approved portal (Longroot) uses.
+
+## Description
+
 This repo contains information related to deploying the ERC20 currency token. We use
 [truffle](https://www.trufflesuite.com/) to manage all ethereum related interactions. Truffle also supports
 deploying contracts to mainnet. For more detail [see this](https://www.trufflesuite.com/tutorials/deploying-to-the-live-network)
